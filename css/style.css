@@ -1,0 +1,49 @@
+body {
+    background-color: #f5f5dd;
+}
+
+.glowny {
+    background-color: rgba(222, 223, 204, 0.932);
+    width: 600px;
+    height: 100px;
+    margin: 15px;
+}
+.paragraf1{
+    background-color: rgba(206, 211, 107, 0.932);
+    width: 600px;
+    height: 100px;
+    margin: 15px;
+}
+.podtytul {
+    background-color: rgba(103, 104, 94, 0.932);
+    width: 600px;
+    height: 100px;
+    margin: 15px;
+}
+.paragraf2 {
+    background-color: rgba(182, 152, 199, 0.932);
+    width: 600px;
+    height: 100px;
+    margin: 15px;
+}
+.lista {
+    background-color: rgba(88, 88, 12, 0.932);
+    width: 560px;
+    height: 100px;
+    margin: 15px;
+}
+.linia1{
+    color: rgba(194, 194, 45, 0.932);
+}
+.linia2{
+    color: rgba(45, 194, 57, 0.932);
+}
+.linia3{
+    color: rgba(31, 4, 150, 0.932);
+}
+.linia4{
+    color: rgba(243, 14, 64, 0.932);
+}
+.linia5{
+    color: rgba(211, 169, 156, 0.932);
+}
